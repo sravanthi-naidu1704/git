@@ -1,0 +1,7 @@
+ commit some files in local 
+Now link github repo to local system  : git remote add origin github-repo-url 
+Now push the source code to github : git push -u origin branch_name
+ Then it will ask username : provider github username 
+Now it will ask password : generate a token and paste here
+ How to generate a token : setting >>>>> developer settings >>> personal access token >> 
+generate a token >>> name : token name >>> scopes : repositories 
